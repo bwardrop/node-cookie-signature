@@ -1,4 +1,9 @@
 
+# !!! WARNING !!!
+  This fork is not intended for use in production.
+  It has been created to test the efficacy of supply chain security tools.
+  
+  
 # cookie-signature
 
   Sign and unsign cookies.
